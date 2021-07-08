@@ -1,11 +1,10 @@
-
-// This function has one input: inputNumber, and an output 
-function doubleNumber(inputNumber){
-    return inputNumber * 2;
+// This function has one input: inputNumber, and an output
+function doubleNumber(inputNumber) {
+  return inputNumber * 2;
 }
 
-function tripleNumber(inputNumber){
-    // Write code here so this function gives the correct result
+function tripleNumber(inputNumber) {
+  return inputNumber * inputNumber * inputNumber;
 }
 
 let x = 10;
