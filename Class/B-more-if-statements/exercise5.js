@@ -1,7 +1,7 @@
 // Currency converter
 
 // The values of currency can be GBP, EUR or USD
-let currency = "UK";
+let currency = "USA";
 
 let symbol = "";
 
